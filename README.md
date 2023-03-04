@@ -1,5 +1,9 @@
 # Titanic_Dataset_EDA
 
+Titanic:
+Requirements: python3,Libraries,Modules.
+Libraries used for Preprocessing: Pyforest,Numpy,Pandas.
+Libraries used for Data Visulation: Matplotlib,Seaborn.
 
 This data set consists of information about the passengers of the RMS Titanic ship And also have info about is that particular passenger has survived that disaster or not. For every individual person, we have information about
 
